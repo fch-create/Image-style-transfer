@@ -1,10 +1,10 @@
 ﻿# Image-style-transfer
 
-小组分工：
-时俊鹏：forward.py+backward.py
-孙思慧：环境搭建+generateds.py
-郝宇：测试+test.py
-张腾辉：app.py+main.py
+小组分工：<br>
+时俊鹏：forward.py+backward.py<br>
+孙思慧：环境搭建+generateds.py<br>
+郝宇：测试+test.py<br>
+张腾辉：app.py+main.py<br>
 
 ## Instruction
 ### 一、core文件夹
